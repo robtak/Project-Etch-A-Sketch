@@ -12,4 +12,4 @@ When the ereaser icon is clicked, the user can hover over a circle to change the
 
 When the (X) is clicked, the user clear all circles whose color changed as a result of the hover effect back to the default grid circle color.
 
-My respository can be found at https://github.com/rob and the preview of the project at 
+My respository can be found at https://github.com/robtak and the preview of the project can also be found at https://robtak.github.io/Project-Etch-A-Sketch/ 
